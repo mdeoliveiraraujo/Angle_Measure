@@ -1,5 +1,5 @@
 # Angle_Measure
-Firmwire to STM32 based control board with ADS1256, SD Card data logging, MPU6050 inertial unit and XBee wireless communication.
+Firmware to STM32 based control board with ADS1256, SD Card data logging, MPU6050 inertial unit and XBee wireless communication.
 
 A puzzle-style code brought together throughout seek-and-destroy issues method *hehe*
 
