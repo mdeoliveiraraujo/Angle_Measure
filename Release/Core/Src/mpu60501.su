@@ -1,0 +1,3 @@
+mpu60501.c:73:9:MPU60501_Init	48	static
+mpu60501.c:160:8:Kalman_getAngle	96	static
+mpu60501.c:106:6:MPU60501_Read_All	72	static
